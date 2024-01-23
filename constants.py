@@ -1,0 +1,5 @@
+CSV_FILE = 'input.csv'
+TXT_FILE = 'output.txt'
+LOG_FILE = '2024.log'
+LOG_FORMAT = '%(asctime)s | %(name)s | %(levelname)s | %(message)s'
+LOG_FORMAT_DATE = '%Y-%m-%d %H:%M:%S'
